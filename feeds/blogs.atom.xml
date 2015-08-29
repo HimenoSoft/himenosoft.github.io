@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>HimenoSoft</title><link href="https://himenosoft.github.io/" rel="alternate"></link><link href="https://himenosoft.github.io/feeds/blogs.atom.xml" rel="self"></link><id>https://himenosoft.github.io/</id><updated>2015-08-29T15:06:32+08:00</updated><entry><title>Hello world from HimenoSoft</title><link href="https://himenosoft.github.io/hello.html" rel="alternate"></link><updated>2015-08-29T15:06:32+08:00</updated><author><name>chaserhkj</name></author><id>tag:himenosoft.github.io,2015-08-29:hello.html</id><summary type="html">&lt;p&gt;Hello world!&lt;/p&gt;
+&lt;p&gt;This is HimenoSoft, himeno with a brunch of friends who are interested in making
+software and games.&lt;/p&gt;
+&lt;p&gt;This is our first post, we're not sure about what we're going to make, but
+anyway anouncing a github organization may be a good start.&lt;/p&gt;
+&lt;p&gt;Please visit our organization at &lt;a href="https://github.com/HimenoSoft/"&gt;here&lt;/a&gt;&lt;/p&gt;</summary></entry></feed>
